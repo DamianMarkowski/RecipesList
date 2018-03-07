@@ -3,10 +3,11 @@
 The project contains:
 1. Downloading and parsing JSON data from a server.
 2. Caching downloaded data.
-3. Displaying a list of recipes in a collection view.
-4. Filtering, summing up data with Swift build-in functions.
-5. Clean Swift Architecture pattern.
-6. Unit tests.
+3. Realm database usage.
+4. Displaying a list of recipes in a collection view.
+5. Filtering, summing up data with Swift build-in functions.
+6. Clean Swift Architecture pattern.
+7. Unit tests.
 
 ## Getting started
 
