@@ -29,6 +29,7 @@ Once installation process finished just double click Recipes.xcworkspace file.
 ## TO DO
 
 1. Test URLSession in a smarter way.
+2. Move string constants to assets.
 
 ## License
 
